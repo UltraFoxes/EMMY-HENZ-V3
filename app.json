@@ -54,7 +54,7 @@
       },
       "WARN_COUNT": {
         "description": " Warn count for users to kick/block when warn limit exceed!",
-        "required": false,
+        "required": true,
         "value": "3"
       },
       "AUTO_SAVE_STATUS": {
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "447716625630","2348056003780"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -111,7 +111,7 @@
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "public"
+        "value": "private"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
